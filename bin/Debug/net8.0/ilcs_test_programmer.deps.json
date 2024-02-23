@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ilcs_test_programmer/1.0.0": {
+        "runtime": {
+          "ilcs_test_programmer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ilcs_test_programmer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
